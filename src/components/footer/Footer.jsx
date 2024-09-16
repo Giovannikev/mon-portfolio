@@ -17,7 +17,7 @@ const Footer = () => {
                     <i className="bx bxl-linkedin"></i>
                 </a>
 
-                <a href="https://www.facebook.com/giovanni.kevin884" className="home__social-icon" target='_blank'>
+                <a href="https://www.instagram.com/giovanni_kevin_" className="home__social-icon" target='_blank'>
                     <i className="bx bxl-instagram-alt"></i>
                 </a>
 
